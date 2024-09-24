@@ -19,8 +19,6 @@ with open("README.md", "r", "utf-8") as f:
 
 requires = [
     "requests",
-    "ratelim",
-    "click",
 ]
 
 setup(
